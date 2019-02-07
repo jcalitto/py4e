@@ -3,6 +3,10 @@ print('hello world')
 
 # we will esto es
 
-lst = list()
+
 
 #lero lero
+
+# otra vez
+
+print('y porque pues')
